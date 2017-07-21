@@ -7,8 +7,8 @@ The directory of the program must have a users.txt file and a config.txt file or
 Each line must be spaced out by semicolons on both the config file and users file.
 
 Config file:
-First line is your bot token
-Second line is your guild/server ID
+First line is your bot token, 
+Second line is your guild/server ID, 
 Third line is the debug setting.
 
 Example of config file:
