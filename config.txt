@@ -1,0 +1,3 @@
+TOKEN NAME HERE;
+GUILD/SERVER ID HERE;
+DEBUG (true/false);

@@ -1,0 +1,12 @@
+Users file: Defines user data
+Usage: Username-Tag,UserID,Username
+
+Config file: Defines bot token, guild/server id and debug setting
+Definitions:
+1: Bot token
+2: Guild/server ID
+3: Debug setting (true/false)
+Usage: 
+1;
+2;
+3;
