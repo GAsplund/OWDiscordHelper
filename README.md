@@ -12,14 +12,20 @@ Second line is your guild/server ID
 Third line is the debug setting.
 
 Example of config file:
-```(Very secret bot token);
+```
+(Very secret bot token);
 176689618194792448;
-false;```
+false;
+```
 
 Users file:
 Each line is one user, and looks like this:
-```<BATTLETAG NAME>-<BATTLETAG ID>,<DISCORD USER ID>,<DISCORD NAME/NICK>;```
+```
+<BATTLETAG NAME>-<BATTLETAG ID>,<DISCORD USER ID>,<DISCORD NAME/NICK>;
+```
 
 Example of users file:
-```L33tHax0r-1337,233892072606662658,Good Username;
-Bert-65536,233892072606662658,Unnamed;```
+```
+L33tHax0r-1337,233892072606662658,Good Username;
+Bert-65536,233892072606662658,Unnamed;
+```
