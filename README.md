@@ -3,7 +3,7 @@ A bot for Discord that sets users nicks as Overwatch levels
 
 
 Info:
-The directory of the program must have a users.txt file and a config.txt file or else it won't work (WIP to automatically make this)
+At the start of the program it will check for users.txt, config.txt and info.txt. If any of these are missing it will automatically create them empty which you must fill with information specified below.
 Each line must be spaced out by semicolons on both the config file and users file.
 
 Config file:
