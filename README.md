@@ -29,3 +29,6 @@ Example of users file:
 L33tHax0r-1337,233892072606662658,Good Username;
 Bert-65536,233892072606662658,Unnamed;
 ```
+
+# Download
+You need to compile this program for yourself.
